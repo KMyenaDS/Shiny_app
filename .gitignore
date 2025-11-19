@@ -5,7 +5,7 @@
 
 # RStudio files
 .Rproj.user/
-*.Rproj
+#*.Rproj
 
 # Temporary files
 *.tmp
