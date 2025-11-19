@@ -1,0 +1,32 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# Temporary files
+*.tmp
+*.zip
+*.tar
+*.tar.gz
+*.Rout
+*.o
+*.so
+
+# Shiny logs
+*.log
+
+# Markdown caches
+*_cache/
+cache/
+
+# HTML preview files
+*.utf8.md
+*.knit.md
+
+# System files
+.DS_Store
+Thumbs.db
